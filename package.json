@@ -1,0 +1,11 @@
+{
+  "name": "dhan-os",
+  "version": "1.0.0",
+  "description": "This is a simple custom library for os",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "danvincenttagailo@gmail.com",
+  "license": "ISC"
+}
